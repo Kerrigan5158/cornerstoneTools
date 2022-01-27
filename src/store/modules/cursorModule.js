@@ -11,8 +11,7 @@ const configuration = {
     y: 8,
   },
   mousePointerGroupString: `
-    <path stroke="ACTIVE_COLOR" d="M8 16L8 0"></path>
-    <path stroke="ACTIVE_COLOR" d="M16 8L0 8"></path>
+    <path stroke="ACTIVE_COLOR" fill="ACTIVE_COLOR" d="M0 16L0 0L12 14L4 10 Z"></path>
   `,
 };
 

@@ -7,8 +7,8 @@ const configuration = {
     y: 16,
   },
   mousePoint: {
-    x: 8,
-    y: 8,
+    x: 0,
+    y: 0,
   },
   mousePointerGroupString: `
     <path stroke="ACTIVE_COLOR" fill="ACTIVE_COLOR" d="M0 16L0 0L12 14L4 10 Z"></path>

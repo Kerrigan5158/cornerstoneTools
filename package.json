@@ -9,12 +9,12 @@
     "imaging",
     "cornerstone"
   ],
-  "author": "https://github.com/cornerstonejs/cornerstoneTools#contributors",
-  "homepage": "https://github.com/cornerstonejs/cornerstoneTools",
+  "author": "HURWA",
+  "homepage": "https://github.com/Kerrigan5158/cornerstoneTools",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornerstonejs/cornerstoneTools.git"
+    "url": "https://github.com/Kerrigan5158/cornerstoneTools.git"
   },
   "engines": {
     "node": ">=8.16.0"
